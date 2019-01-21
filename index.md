@@ -1,5 +1,5 @@
 # Welcome
-## this is my portfolio
+## --this is my portfolio--
 
 ## Hi, My name is Zoe Wong-VanHaren.
 > I'm a student at Palo Alto High School, in the graduating class of 2020. In my free time, I wrestle for Paly's co-ed Wrestling Team and write for [Verde Magazine](http://verdemagazine.com) and take photos for the [Sunday Lens](http://sundaylens.com). 
